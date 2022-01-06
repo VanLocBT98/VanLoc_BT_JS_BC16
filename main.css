@@ -1,0 +1,8 @@
+input{
+    width: 40%;
+}
+#red,
+#orange,
+#green{
+    width: 10%;
+}
